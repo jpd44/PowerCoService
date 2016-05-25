@@ -18,12 +18,12 @@ hibernate {
 environments {
     development {
         dataSource {
-            dbCreate = "update"
-            // dbCreate = "create-drop"
+            // dbCreate = "update"
+            dbCreate = "create-drop"
             driverClassName = "com.mysql.jdbc.Driver"
             username="master"
             password="iloveamazon!"
-            url = "jdbc:mysql://guestbook-mysql.c15lzdctuff2.us-east-1.rds.amazonaws.com:3306/guestbook"
+            url = "jdbc:mysql://powercoservice.c15lzdctuff2.us-east-1.rds.amazonaws.com:3306/PowerCoService"
 
         }
     }

@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta name="layout" content="main"/>
-		<title>Octank City Service</title>
+		<title>PowerCo RESTful Services</title>
 		<style type="text/css" media="screen">
 			#status {
 				background-color: #eee;
@@ -103,8 +103,8 @@
 			</ul>
 		</div>
 		<div id="page-body" role="main">
-			<h1>Octank Travel RESTful Services</h1>
-			<p>Below is a list of controllers that are currently deployed in the Octank RESTful Services application,
+			<h1>PowerCo RESTful Services</h1>
+			<p>Below is a list of controllers that are currently deployed in the PowerCo RESTful Services web application,
 			   click on each to execute its default action. Each controller also responds to POST, GET, DELETE, and PUT requests.</p>
 
 			<div id="controller-list" role="navigation">

@@ -20,7 +20,7 @@
 	</head>
 	<body>
 		<div id="grailsLogo" role="banner"><a href="/">
-		    <asset:image src="octank_logo.png" height="75" width="75" border="1" alt="Octank"/></a>
+		    <b><a href="/">The Power Company</a></b>
 		</div>
 		<g:layoutBody/>
 		<div class="footer" role="contentinfo">
